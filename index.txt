@@ -1,0 +1,240 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Teddy James
+Teddy James
+Computer Scientist
+
+Show Contacts
+
+Email
+jamesteddy@gmail.com
+
+Phone
++233593817412
+
+Birthday
+May 31, 2002
+
+Location
+Ashaiman Accra, Ghana
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm a Computer Science enthusiast with a passion for coding from Accra, Ghana, working in web development and programming.I enjoy turning complex problems into simple, beautiful, intuitive designs, and technology-driven innovation. With a solid foundation in software development
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
+
+
+## service
+
+What I'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Stephan Nyadia
+Stephan Nyadia
+Teddy has become our go-to consultant for all things IT and software development. Their deep knowledge of computer science and dedication to delivering results make them an invaluable asset to our business.
+
+alt = Louisa Peterson
+Louisa Peterson
+We were impressed with Teddy's professionalism and technical expertise. They delivered on time, exceeded expectations, and provided ongoing support to ensure everything ran smoothly..
+
+alt = Natascha Yankey
+Natascha Yankey
+Working with Teddy was an absolute pleasure. They quickly identified and resolved a critical issue in our system that had stumped our team for weeks. Their ability to break down complex problems and deliver practical solutions is truly impressive!. 
+
+
+alt = Henry william
+Henry william
+One of Teddy's greatest strengths is their ability to communicate complex technical concepts in a way that's easy for non-technical stakeholders to understand. This made the entire process seamless and stress-free.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Ghana Communication Technology University
+2023 — 2026
+Pursued a Bachelor's degree in Computer Science, focusing on foundational and advanced concepts in programming, software development, and systems analysis. Gained practical experience through coursework and projects, preparing for a career in technology and innovation.
+
+ALX Africa
+2024 — 2025
+Enrolled in the ALX Software Engineering program, a rigorous curriculum designed to develop skills in Back-End software development, problem-solving, and collaboration. Focused on mastering programming languages, algorithms, and system design while working on real-world projects to build practical experience..
+
+Anum Presbyterian Senior High School
+2018 — 2021
+Studied as a Science student with a focus on Physics, Chemistry, Biology, and Mathematics. Developed a strong foundation in analytical thinking and problem-solving, which inspired a passion for technology and innovation.
+
+Experience
+
+Computer Scientist
+2023 — Present
+Engaged in designing, developing, and optimizing software solutions. Focused on problem-solving, algorithm development, and exploring emerging technologies to drive innovation. Actively improving skills in programming, system design, and project management through personal projects and professional growth opportunities.
+
+Back-End Software Developer
+2023 — Present
+Focused on developing and optimizing server-side components, managing databases, and integrating APIs to ensure robust and scalable applications. Skilled in languages like Python, Java, and Node.js, with an emphasis on creating efficient, secure, and maintainable systems. Collaborates with front-end teams to ensure smooth data flow and application performance.
+
+Web designer
+2023 — Present
+Designed and developed visually appealing and user-friendly websites, focusing on layout, structure, and interactive elements. Utilized design tools such as Adobe Photoshop and Illustrator, and worked with HTML, CSS, and JavaScript to create responsive and functional websites. Collaborated with clients to meet their design needs and deliver engaging online experience. 
+
+programming languages
+
+Python
+88%
+HTML and CSS
+60%
+Java
+92%
+Others
+70%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2024
+Design conferences in 2024
+Where creativity meets functionality — a design that speaks for itself.
+
+alt = Best fonts every designer
+Design
+Fab 28, 2024
+Best fonts every designer
+A visual journey, where design meets innovation.
+
+alt = Design digest #80
+Design
+March 10, 2024
+Design digest #80
+Transforming ideas into stunning digital visuals.
+
+alt = UI interactions of the week
+Design
+May 23, 2024
+UI interactions of the week
+From concept to creation — every detail tells a story.
+
+alt = The forgotten art of spacing
+Design
+October 30, 2024
+The Forgotten Art Of Spacing
+Crafting visual stories through thoughtful design and detail.
+
+alt = Design digest #79
+Design
+August 16, 2022
+Design Digest #79
+Simplicity in design, sophistication in execution.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send 
